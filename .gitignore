@@ -1,0 +1,9 @@
+opt/
+bin/
+obj/
+packaged*.yaml
+.vs/
+FodyWeavers.*
+swagger.json
+test/CalculationListener.Tests/coveragereport
+test/CalculationListener.Tests/coverage.cobertura.xml
